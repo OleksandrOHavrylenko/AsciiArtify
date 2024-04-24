@@ -26,7 +26,7 @@ curl localhost:8088
 // Download any image
 wget -O /tmp/g.png https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png  
 
-// Upload image to AsciiArtify endpoint on localhost:8088/img/ 
+// Upload image to AsciiArtify endpoint on localhost:8088/img/  
 curl -F 'image=@/tmp/g.png' localhost:8088/img/  
 
 
