@@ -28,5 +28,5 @@ wget -O /tmp/g.png https://www.google.com/images/branding/googlelogo/1x/googlelo
 curl -F 'image=@/tmp/g.png' localhost:8088/img/  
 
 
-![Image](./mvp.gif)
+![Image](./images/mvp.gif)
 
