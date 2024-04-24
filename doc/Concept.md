@@ -14,7 +14,7 @@ K3d is the best solution for AsciiArtify, is speed and resorce efficient, suppor
 
 ### Deployment Demo for HelloWorld application on k3d.
 
-![Image](./demo.gif)
+![Image](./images/demo.gif)
 
 
 

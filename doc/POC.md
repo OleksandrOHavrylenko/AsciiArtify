@@ -19,6 +19,6 @@ input
 admin = admin  
 password = password from previous step  
 
-![Image](./demo_argocd.gif)
+![Image](./images/demo_argocd.gif)
 
 
